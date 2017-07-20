@@ -15,7 +15,20 @@ h2 {
 		width: 400px;
 		border: 0;
 		box-shadow: 0;
+		-webkit-box-shadow: none;
+		-moz-box-shadow: none;
+		box-shadow: none;
 	}
 background: white;
   background-color: white;
+}
+
+#main_content_wrap {
+	border: 0;
+	background-color: white;
+}
+
+#footer_wrap {
+	color: #A9A9A9;
+	background-color: white;
 }
