@@ -14,7 +14,6 @@ h2 {
 	img {
 		width: 400px;
 		border: 0;
-		box-shadow: 0;
 		-webkit-box-shadow: none;
 		-moz-box-shadow: none;
 		box-shadow: none;
@@ -26,5 +25,16 @@ background: white;
 #main_content_wrap {
 	border: 0;
 	background-color: white;
+}
+
+#footer_wrap {
+	img {
+		width: 30px;
+		height: 30px;
+		border: 0;
+		-webkit-box-shadow: none;
+		-moz-box-shadow: none;
+		box-shadow: none;
+	}
 }
 
