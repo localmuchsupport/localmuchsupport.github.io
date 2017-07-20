@@ -14,7 +14,7 @@
 
 <h1>Company</h1>
 <ul>
-<li><a href="{{ site.baseurl }}//contact">Contact</a></li>
+<li><a href="{{ site.baseurl }}//contact">Contact Us</a></li>
 <li><a href="{{ site.baseurl }}//about">About</a></li>
 <li><a href="{{ site.baseurl }}//jobs">Jobs</a></li>
 </ul>
