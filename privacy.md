@@ -19,7 +19,7 @@ We may change our Privacy Policy from time to time by publishing changes to it o
 <li>Credit card and/or PayPal account information;</li>
 <li>Your device ID, device type, geo-location information, computer and connection information, statistics on page views, traffic to and from the site, ad data, IP address and standard web log information;</li>
 <li>Details of the products and services we have provided to you or that you have indicated interest in or enquired about;</li>
-<li>Any additional information relating to you that you provide to us directly through our website or app or indirectly through your use of our website or app or online presence or through other websites or accounts from which you permit us to collect information;<li>
+<li>Any additional information relating to you that you provide to us directly through our website or app or indirectly through your use of our website or app or online presence or through other websites or accounts from which you permit us to collect information;</li>
 <li>Information you provide to us through customer surveys; or</li>
 <li>Any other personal information that may be required in order to facilitate your dealings with us.</li>
 </ul>
