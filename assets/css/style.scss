@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 #header_wrap {
+h2 {
+	color: black;
+}
 background: white;
   background-color: white;
 }
