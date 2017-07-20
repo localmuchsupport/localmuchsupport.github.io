@@ -1,4 +1,6 @@
 
 <h1>Policies</h1>
-<a href="{{ site.baseurl }}/terms">Terms and Conditions</a>
-<a href="{{ site.baseurl }}/privacy">Privacy</a>
+<ul>
+<li><a href="{{ site.baseurl }}/terms.md">Terms and Conditions</a></li>
+<li><a href="{{ site.baseurl }}/privacy.md">Privacy</a></li>
+</ul>
