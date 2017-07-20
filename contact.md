@@ -1,5 +1,5 @@
 ---
-title: Contact Us
+title: Contact Us |
 ---
 <h1>Contact Us</h1>
 <p>For support using the site, please email <a href="mailto:support@localmuch.com">support@localmuch.com</a>.</p>
