@@ -10,6 +10,6 @@ title: Cancellation Policy |
 <form action="https://formspree.io/support@localmuch.com" method="POST">
 <input type="text" name="bookingRef" placeholder="Booking reference" /><br />
 <input type="email" name="_replyto" placeholder="Email address" /><br />
-<textarea rows="5" cols="30">Message</textarea><br />
+<textarea rows="10" cols="30">Message</textarea><br />
 <input type="Submit" />
 </form>
