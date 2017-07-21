@@ -1,5 +1,5 @@
 ---
-Title: Terms and Conditions |
+title: Terms and Conditions |
 ---
 <h1>Terms and Conditions</h1>
 <p>This website and platform service is owned and operating by LocalMuch Pty Ltd. By accessing and/or using this website and related services, you agree to these Terms and Conditions as may be updated from time to time, which include our Privacy Policy (available at https://support.localmuch.com/privacy) (<em>Terms</em>).
