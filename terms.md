@@ -2,7 +2,7 @@
 Title: Terms and Conditions |
 ---
 <h1>Terms and Conditions</h1>
-<p>This website and platform service is owned and operating by LocalMuch Pty Ltd. By accessing and/or using this website and related services, you agree to these Terms and Conditions as may be updated from time to time, which include our Privacy Policy (available https://support.localmuch.com/privacy) (<em>Terms</em>).
+<p>This website and platform service is owned and operating by LocalMuch Pty Ltd. By accessing and/or using this website and related services, you agree to these Terms and Conditions as may be updated from time to time, which include our Privacy Policy (available at https://support.localmuch.com/privacy) (<em>Terms</em>).
 You should review our Privacy Policy and these terms carefully and immediately cease using our website if you do not agree to these terms as may be updated from time to time.</p>
 
 <p>In these Terms, 'us', 'we' and 'our' means LocalMuch Pty Ltd and our related bodies corporate.
@@ -26,7 +26,7 @@ You should review our Privacy Policy and these terms carefully and immediately c
 <p>By clicking the 'Book Now' button you submit an offer to LocalMuch to buy the experience at the nominated date and time. However the purchase of the experience is not complete until you receive an email from LocalMuch confirming the booking of the experience.</p>
 <p>All payments are to be made via PayPal or other methods acceptable to LocalMuch at the time of pressing 'Book Now'.</p>
 <p>When unforeseen circumstances arise, Hosts may cancel bookings after payment has been accepted and a booking confirmed. In these circumstances you will receive a full refund of the purchase amount.</p>
-<p>Bookins may also be cancelled by us for any violation of these terms and conditions, or on suspicion of fraudulent or other bad faith activity.</p>
+<p>Bookings may also be cancelled by us for any violation of these terms and conditions, or on suspicion of fraudulent or other bad faith activity.</p>
 <p>You may cancel your booking and receive a full refund to to 72 hours before the relevant booking date and time.</p>
 <p>If you cancel your booking between 24 and 72 hours before the relevant booking date and time, you will receive a 50% refund.</p>
 <p>Cancellations within 24 hours before the booking are not eligible for a refund.</p>
@@ -34,11 +34,11 @@ You should review our Privacy Policy and these terms carefully and immediately c
 <p>It is your responsibility to contact the host after booking an experience to confirm a meeting spot or pickup location, and any additional requirements.</p>
 <p>All bookings are valid only for the date and time selected and for the number of guests indicated. The date and time specified in the booking is specified in the time zone of the meeting point or pickup location, or as otherwise agreed between you and the host.</p>
 <p>In its capacity as a platform to coordinate bookings, LocalMuch will collect any necessary taxes from you as required by law.</p>
-<p>N AUSTRALIA, OUR GOODS AND SERVICES COME WITH GUARANTEES THAT CANNOT BE EXCLUDED UNDER THE AUSTRALIAN CONSUMER LAW. NOTHING IN THESE TERMS AND CONDITIONS PURPORTS TO MODIFY OR EXCLUDE THE CONDITIONS, WARRANTIES AND UNDERTAKINGS, AND OTHER LEGAL RIGHTS, UNDER THE AUSTRALIAN COMPETITION AND CONSUMER ACT AND OTHER LAWS. ANY AND ALL OTHER WARRANTIES OR CONDITIONS WHICH ARE NOT GUARANTEED BY THE AUSTRALIAN CONSUMER LAW OR THE COMPETITION AND CONSUMER REGULATION 2010 ARE EXPRESSLY EXCLUDED WHERE PERMITTED, INCLUDING LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES CAUSED BY BREACH OF ANY EXPRESS OR IMPLIED WARRANTY OR CONDITION.</p>
+<p>IN AUSTRALIA, OUR GOODS AND SERVICES COME WITH GUARANTEES THAT CANNOT BE EXCLUDED UNDER THE AUSTRALIAN CONSUMER LAW. NOTHING IN THESE TERMS AND CONDITIONS PURPORTS TO MODIFY OR EXCLUDE THE CONDITIONS, WARRANTIES AND UNDERTAKINGS, AND OTHER LEGAL RIGHTS, UNDER THE AUSTRALIAN COMPETITION AND CONSUMER ACT AND OTHER LAWS. ANY AND ALL OTHER WARRANTIES OR CONDITIONS WHICH ARE NOT GUARANTEED BY THE AUSTRALIAN CONSUMER LAW OR THE COMPETITION AND CONSUMER REGULATION 2010 ARE EXPRESSLY EXCLUDED WHERE PERMITTED, INCLUDING LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES CAUSED BY BREACH OF ANY EXPRESS OR IMPLIED WARRANTY OR CONDITION.</p>
 <h3>Responsibility for experiences</h3>
 <p>Please note that the Host, and not LocalMuch, is:</p>
 <ul>
-<li>The seller, supplier and/or provider of the Merchant Offering;</li>
+<li>The seller, supplier and/or provider of the experience;</li>
 <li>Solely responsible for providing you with the experience.</li>
 </ul>
 <p>You agree to release the Host from any liability for any injury, damage or loss arising from performing the experience offered by the Host. Many experiences offered through the website are likely to be dangerous recreational activities.</p>
@@ -46,7 +46,7 @@ You should review our Privacy Policy and these terms carefully and immediately c
 <h3>Linked sites</h3>
 Our website may contain links to websites operated by third parties. Those links are provided for convenience and may not remain current or be maintained. Unless expressly stated otherwise, we do not endorse and are not responsible for the content on those linked websites and have no control over or rights in those linked websites.</p>
 <h3> Intellectual property rights </h3>
-<p> Unless otherwise indicates, we own or license from third parties all rights, title and interest (including copyright, designs, patents, trademarks and other intellectual property rights) in this website and in all of the material (including all text, graphics, logos, audio and software) made available on this website (<em>Content</em).</p>
+<p> Unless otherwise indicates, we own or license from third parties all rights, title and interest (including copyright, designs, patents, trademarks and other intellectual property rights) in this website and in all of the material (including all text, graphics, logos, audio and software) made available on this website (<em>Content</em>).</p>
 <p>Your use of this website and use of and access to any Content does not grant or transfer any rights, title or interest to you in relation to this website or the Content. However we do grant you a licence to access the website and view the Content on the terms and conditions set out in this Agreement and, where applicable, as expressly authorised by us and/or our third party licensors.</p>
 <p>Any reproduction or redistribution of this website or the Content is prohibited and may result in civil and criminal penalties. In addition, you must not copy the Content to any other server, location or support for publication, reproduction or distribution is expressly prohibited.</p>
 <p>All other use, copying or reproduction of this website, the Content or any part of it is prohibited, except to the extent permitted by law.</p>
